@@ -1,4 +1,4 @@
-# Data Analytics (CMPSC 301) Course Syllabus
+# Data Science (CMPSC 301) Course Syllabus
 
 Semester: Fall 2024
 
@@ -64,9 +64,9 @@ A team-based investigation of select topics in computer science, preparing stude
 ## Course Objectives
 
 Students successfully completing this class will have developed:
-+ A “big-picture” view of data analytics.
++ A “big-picture” view of data science.
 + An understanding of the objectives and limitations of data analytics.
-+ An understanding of the main data analytics methods.
++ An understanding of the main methods in data science for analytical goals.
 + Practical skills using relevant software tools and programming techniques.
 + An understanding of the contemporary roles of power and difference as they relate to the knowledge derived from a data set.
 + An understanding of biases, discrimination and stereotypes that maybe present during collection, analysis, and reflection on the latent trends in real-world data sets.
@@ -108,10 +108,10 @@ The grade that a student receives in this class will be based on the following c
 
 |Category              | Percentage | Assessment metric
 |:-------------------- | :--------- | :-----------------
-|Class Participation   | 10%        | check mark grade
-|Exam                  | 20%        | letter grade
+|Participation and Activities   | 20%        | check mark grade
 |Lab Assignments       | 40%        | letter grade
-|Final Project         | 30%        | letter grade
+|Midterm Exam          | 20%        | letter grade
+|Final Project         | 20%        | letter grade
 |Total                 | 100%       |
 
 #### Grading Scale
@@ -127,7 +127,9 @@ The grade that a student receives in this class will be based on the following c
 
 - __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.
 
-- __Exam__: A midterm exam will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
+- __Activities__: Students are offered challenges to test their understanding of material from the course and textbook. Challenges inclulde programming concepts, data handling, approaches to analysis, interpretation, in addition to other types of skills that are intimately associated to data science. Unless other information is given about a due date, activities are to be completed by the end of class.
+
+- __Exam__: A Midterm Exam will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
 
 - __Laboratory Assignments__: These assignments invite students to explore the concepts, tools, and techniques associated with the analysis of data. All of the laboratory assignments require the use of the provided tools to study, design, implement, and evaluate systems that solve data analytics problems. In addition
  to demonstration of the technical skills through the utilized or developed software for data analysis, some of the laboratory assignments in this course may also expect students to read a related article and to lead a discussion or to give a short presentation related to the assigned article.
