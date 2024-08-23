@@ -48,7 +48,9 @@ If you are already on the department's Discord server, then you will be given ac
 
 ## `classDocs/`
 
-All materials given out in class will be accessible using the `classDocs/` repository which is hosted on GitHub. Note: The HTTP link works in absence of SSH keys. The link for this repository will be made available on the course website.
+All materials (i.e., slides, code, data and other resources) given out in class will be archived in the `classDocs/` repository which is hosted on GitHub. To clone this repository (i.e., making a local copy of all materials on your own machine) use the command; `git clone git@github.com:AlleghenyCollege-CIS-301-F2024/classDocs.git`. You will only have to do this once to create this local copy, however, you may make other copies of the `classDocs/` repository, if your previous copy of the repository becomes corrupt for some reason.
+
+To update your local repository (i.e., to get the latest slides and resources), use the following command from the directory of the repository on your local machine; `git pull`. This command will check to see what updates are available online to download them to your machine.
 
 ## Course Deliverable
 <!-- https://sites.allegheny.edu/registrar/spring-2023-final-exam-schedule/ -->
