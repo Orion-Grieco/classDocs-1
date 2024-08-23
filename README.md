@@ -195,7 +195,7 @@ Additionally, the course website will be used to store the syllabus, course sche
 
 ### Gradebook Repository
 
-- [GradeBook repository](https://classroom.github.com/a/9QhtvWWZ)
+TBA: GradeBook repository
 
 ### Bring your own computer to class
 
@@ -235,7 +235,6 @@ Below is a schedule of covered topics as we cover them, along with their associa
 
 | Week Number | Dates | Topic |
 | ----------- | ----- | ----- |
-
 | 1 | mm/dd/yyyy | Intro to R programming |
 | 2 | mm/dd/yyyy | Exploratory Analytics, determining types of analysis |
 | 3 | mm/dd/yyyy | Types of Data |
