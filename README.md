@@ -230,7 +230,7 @@ Types of computer hardware and software are everywhere! Conducting research in c
 
 ### Schedule
 
-Below is a schedule of covered topics as we cover them, along with their associated activities.
+Below is a __tentative__ schedule of covered topics and activities.
 
 
 | Week Number | Dates | Topic |
