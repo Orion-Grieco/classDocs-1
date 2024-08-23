@@ -44,7 +44,7 @@ Alden Hall, 101 Lab
 
 ### Discord
 
-If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#data-analytics`. If not, then you will need to join the department's Discord server before you can be added to the course's channel.
+If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#data-science`. If not, then you will need to join the department's Discord server before you can be added to the course's channel.
 
 ## `classDocs/`
 
@@ -57,9 +57,7 @@ All materials given out in class will be accessible using the `classDocs/` repos
 
 ## Course Description
 
-Credits: 4
-
-A team-based investigation of select topics in computer science, preparing students for the proposal and completion of a senior project. Working in teams to complete hands-on activities, students learn how to read research papers, state and motivate research questions, design and conduct experiments, and collect and organize evidence for evaluating scientific hypotheses. During a weekly laboratory session students use state-of-the-art technology to gain practical skills in scientific and technical writing, the presentation of computational and mathematical concepts, and the visualization of experimental data. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: CMPSC*101 and at least one of the core courses. Distribution Requirements: None.
+A study of computational methods of data analysis with an emphasis on understanding and reflecting on the social, cultural, and political issues surrounding data and its interrogation. Participating in hands-on activities that often require teamwork, students study, design, and implement analytics software and learn how to build predictive models with foundational machine learning algorithms to extract knowledge from various sources of data. Students also investigate the biases, discriminatory views, and stereotypes that may be present during the collection and analysis of data, reflecting on the ethical implications of using the resulting machine learning techniques. During a weekly laboratory session, students use Industry-grade open source statistical software to complete projects, reporting on their findings through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: CMPSC*101 or CMPSC*102. Distribution Requirements: QR, PD.
 
 ## Course Objectives
 
@@ -79,17 +77,36 @@ Throughout the semester students will be challenged with serious analytical ques
 
 ## Suggested TextBooks
 
-+ Wickham, Hadley, and Garrett Grolemund. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data., O'Reilly Media, Inc., 2016.
+The content from this course originates from the following textbooks and references.
 
+* Wickham, Hadley, and Garrett Grolemund. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data., O'Reilly Media, Inc., 2016.
   + [Book Website](https://r4ds.had.co.nz/)
+  + [Latest Version of Book](https://r4ds.hadley.nz/)
 
-+ Julia Silge And David Robinson. Text Mining With R: A Tidy Approach., O'Reilly Media, Inc., 2019.
-
+* Julia Silge And David Robinson. Text Mining With R: A Tidy Approach., O'Reilly Media, Inc., 2019.
   + [Book Website](https://www.tidytextmining.com/)
 
-+ Tuckfield, Bradford. Dive Into Data Science: Use Python to Tackle Your Toughest Business Challenges. No Starch Press, Incorporated, 2023.
+* Think Python, first edition, by Allen B. Downey.
+  + [Publisher Website](https://greenteapress.com/wp/)
 
-+ Vasiliev, Yuli. Python for Data Science: A Hands-on Introduction. No Starch Press, 2022.
+* _Circular Visualization in R_ by Zuguang Gu
+  + [Book Website](https://jokergoo.github.io/circlize_book/book/introduction.html)
+
+* Tuckfield, Bradford. Dive Into Data Science: Use Python to Tackle Your Toughest Business Challenges. No Starch Press, Incorporated, 2023.
+
+* Vasiliev, Yuli. Python for Data Science: A Hands-on Introduction. No Starch Press, 2022.
+
+* Zhang, Aston, et al. "Dive into deep learning." arXiv preprint arXiv:2106.11342 (2021).
+  + [Book Website](https://d2l.ai/)
+
+## Other Useful Textbooks:
+
+* BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
+
+* Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
+
+
+
 
 #### Other Useful Textbooks
 
@@ -207,21 +224,23 @@ Types of computer hardware and software are everywhere! Conducting research in c
 
 Below is a schedule of covered topics as we cover them, along with their associated activities.
 
+
 | Week Number | Dates | Topic |
 | ----------- | ----- | ----- |
-| 1 | mm/dd/yyyy | Introduction to the course, the data all around, syllabus |
-| 2 | mm/dd/yyyy | Intro To R programming |
-| 3 | mm/dd/yyyy | Exploratory Analytics, determining types of analysis |
-| 4 | mm/dd/yyyy | First steps and Types of Data |
-| 5 | mm/dd/yyyy | Statistics, basics, describing data |
+
+| 1 | mm/dd/yyyy | Intro to R programming |
+| 2 | mm/dd/yyyy | Exploratory Analytics, determining types of analysis |
+| 3 | mm/dd/yyyy | Types of Data |
+| 4 | mm/dd/yyyy | Statistics, basics, describing data |
+| 5 | mm/dd/yyyy | T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
 | 6 | mm/dd/yyyy | Exam |
-| 7 | mm/dd/yyyy | T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
-| 8 | mm/dd/yyyy | Modelling formal basics: random decision forests, support vector machines,   |
-| 9 | mm/dd/yyyy | Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning)|
+| 7 | mm/dd/yyyy | Modeling formal basics: random decision forests, support vector machines |
+| 8 | mm/dd/yyyy | Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning) |
+| 9 | mm/dd/yyyy | Linear Neural Networks for Regression and Classification [Examples](https://scikit-learn.org/stable/modules/neural_networks_supervised.html) |
 | 10 | mm/dd/yyyy | Machine Learning (Unsupervised): k-means clustering, [Examples](https://www.ibm.com/topics/unsupervised-learning/) |
-| 11 | mm/dd/yyyy | Machine Learning (Reinforcement Learning): Natural Language Models, Text Analysis, AI, [Examples](https://www.ibm.com/topics/reinforcement-learning) |
-| 12 | mm/dd/yyyy | Machine Learning (Deep learning): Natural Language Processing, Predictive neural networks (recurrent for recognition) [Examples](https://www.ibm.com/topics/deep-learning) |
-| 13 | mm/dd/yyyy | Exam |
-| 14 | mm/dd/yyyy | State of the art: Sentiment Analysis, Text Analysis |
-| 15 | mm/dd/yyyy | State of the art: Facial Recognition, percolation|
-| 16 | mm/dd/yyyy | Final Projects |
+| 11 | mm/dd/yyyy | Machine Learning (Reinforcement Learning): Natural Language Models, Text Analysis, [Examples](https://www.ibm.com/topics/reinforcement-learning) Linear Neural Networks for Classification |
+| 12 | mm/dd/yyyy | State of the art: Sentiment Analysis, Text Analysis |
+| 13 | mm/dd/yyyy | State of the art: Facial Recognition, percolation (maybe) |
+| 14 | mm/dd/yyyy | Exam |
+| 15 | Projects | Presentations |
+| 16 | Projects | Due date |
