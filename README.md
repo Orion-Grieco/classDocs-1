@@ -1,4 +1,4 @@
-# Data Science (CMPSC 301) Course Syllabus
+# CMPSC 301: Data Science Course Syllabus
 
 Semester: Fall 2024
 
@@ -6,14 +6,14 @@ This repository contains information about Data Analysis, including the course o
 
 # Content
 
-- [Data Science (CMPSC 301) Course Syllabus](#data-science-cmpsc-301-course-syllabus)
+- [CMPSC 301: Data Science Course Syllabus](#cmpsc-301-data-science-course-syllabus)
 - [Content](#content)
   - [Instructor](#instructor)
   - [Office Hours](#office-hours)
   - [Meeting Times](#meeting-times)
-    - [Discord](#discord)
-  - [`classDocs/`](#classdocs)
+  - [Discord](#discord)
   - [Course Deliverable](#course-deliverable)
+  - [`classDocs/`](#classdocs)
   - [Course Description](#course-description)
   - [Distribution Requirements](#distribution-requirements)
   - [Course Objectives](#course-objectives)
@@ -26,6 +26,7 @@ This repository contains information about Data Analysis, including the course o
       - [Grading Scale](#grading-scale)
     - [Definitions of Grading Categories](#definitions-of-grading-categories)
     - [Assignment Submissions](#assignment-submissions)
+  - [Submissions](#submissions)
     - [Communication](#communication)
     - [Gradebook Repository](#gradebook-repository)
     - [Bring your own computer to class](#bring-your-own-computer-to-class)
@@ -51,13 +52,12 @@ This repository contains information about Data Analysis, including the course o
 
 Dr. Oliver Bonham-Carter (Note: said and written as __Bonham-Carter__, not _Carter_)
 
-Office Location: Alden Hall 203
-
-Email: <obonhamcarter@allegheny.edu>
+- Office Location: Alden Hall 203
+- Email: <obonhamcarter@allegheny.edu>
 
 ## Office Hours
 
-[Office Hours](https://www.oliverbonhamcarter.com/contactandabout/)
+Please find my office hours appointment at <a href="https://www.oliverbonhamcarter.com/contactandabout/" target="_blank">here.</a>
 
 URL; https://www.oliverbonhamcarter.com/contactandabout/
 
@@ -69,9 +69,14 @@ URL; https://www.oliverbonhamcarter.com/contactandabout/
 - __Lab__, Alden Hall 101
   - W 2:30 PM - 4:20 PM, 27 August 2024 - 12 December 2024
 
-### Discord
+## Discord
 
 If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#data-science`. If not, then you will need to join the department's Discord server before you can be added to the course's channel.
+
+## Course Deliverable
+
+    • Exam code: "A"
+    • Due Thursday, December 9, 2024, 9:00am
 
 ## `classDocs/`
 
@@ -79,36 +84,32 @@ All materials (i.e., slides, code, data and other resources) given out in class 
 
 To update your local repository (i.e., to get the latest slides and resources), use the following command from the directory of the repository on your local machine; `git pull`. This command will check to see what updates are available online to download them to your machine.
 
-## Course Deliverable
-<!-- https://sites.allegheny.edu/registrar/spring-2023-final-exam-schedule/ -->
-- Exam code "A"
-- Final project Due: Monday, 9 December, 2024
-
 ## Course Description
 
 A study of computational methods of data analysis with an emphasis on understanding and reflecting on the social, cultural, and political issues surrounding data and its interrogation. Participating in hands-on activities that often require teamwork, students study, design, and implement analytics software and learn how to build predictive models with foundational machine learning algorithms to extract knowledge from various sources of data. Students also investigate the biases, discriminatory views, and stereotypes that may be present during the collection and analysis of data, reflecting on the ethical implications of using the resulting machine learning techniques. During a weekly laboratory session, students use Industry-grade open source statistical software to complete projects, reporting on their findings through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: CMPSC*101 or CMPSC*102. 
 
 ## Distribution Requirements
 
-* __PD__: _Power, Privilege, & Difference_. Understanding Power, Privilege, & Difference means understanding the role of power, privilege, prejudice, discrimination, stereotypes, inequity, and oppression in human society, in both historical and contemporary contexts, and recognizing these dynamics in the learner’s own life and communities.
+- __PD__: _Power, Privilege, & Difference_. Understanding Power, Privilege, & Difference means understanding the role of power, privilege, prejudice, discrimination, stereotypes, inequity, and oppression in human society, in both historical and contemporary contexts, and recognizing these dynamics in the learner’s own life and communities.
 
-  + __Learning Outcome__: Students who successfully complete this requirement will demonstrate an understanding of the historical and/or contemporary roles of power, privilege, and difference in human society.
+  - __Learning Outcome__: Students who successfully complete this requirement will demonstrate an understanding of the historical and/or contemporary roles of power, privilege, and difference in human society.
 
-* __QR__: _Quantitative Reasoning_. Quantitative Reasoning is the ability to understand, investigate, communicate, and contextualize numerical, symbolic, and graphical information towards the exploration of natural, physical, behavioral, or social phenomena.
+- __QR__: _Quantitative Reasoning_. Quantitative Reasoning is the ability to understand, investigate, communicate, and contextualize numerical, symbolic, and graphical information towards the exploration of natural, physical, behavioral, or social phenomena.
 
-  + __Learning Outcome__: Students who successfully complete this requirement will demonstrate an understanding of how to interpret numeric data and/or their graphical or symbolic representations.
+  - __Learning Outcome__: Students who successfully complete this requirement will demonstrate an understanding of how to interpret numeric data and/or their graphical or symbolic representations.
 
 ## Course Objectives
 
 Students successfully completing this class will have developed:
-+ A “big-picture” view of data science.
-+ An understanding of the objectives and limitations of data analytics.
-+ An understanding of the main methods in data science for analytical goals.
-+ Practical skills using relevant software tools and programming techniques.
-+ An understanding of the contemporary roles of power and difference as they relate to the knowledge derived from a data set.
-+ An understanding of biases, discrimination and stereotypes that maybe present during collection, analysis, and reflection on the latent trends in real-world data sets.
-+ The course is divided into modules, with several of the modules consisting of investigations of real-world data in a specific field. In addition to learning specific technical and programming skills in each module students will be required to read a relevant article and prepare for a discussion related to the issues raised in the article.
-+ Students will also enhance their ability to write and present ideas about data analytics in a clear and compelling fashion. Finally, students will gain practical experience in the design, implementation, and analysis of data for research during laboratory sessions and a final project.
+
+- A “big-picture” view of data science.
+- An understanding of the objectives and limitations of data analytics.
+- An understanding of the main methods in data science for analytical goals.
+- Practical skills using relevant software tools and programming techniques.
+- An understanding of the contemporary roles of power and difference as they relate to the knowledge derived from a data set.
+- An understanding of biases, discrimination and stereotypes that maybe present during collection, analysis, and reflection on the latent trends in real-world data sets.
+- The course is divided into modules, with several of the modules consisting of investigations of real-world data in a specific field. In addition to learning specific technical and programming skills in each module students will be required to read a relevant article and prepare for a discussion related to the issues raised in the article.
+- Students will also enhance their ability to write and present ideas about data analytics in a clear and compelling fashion. Finally, students will gain practical experience in the design, implementation, and analysis of data for research during laboratory sessions and a final project.
 
 ## An Ethical Interest
 
@@ -159,13 +160,13 @@ The content from this course originates from the following textbooks and referen
 
 The grade that a student receives in this class will be based on the following categories. All percentages are approximate and, if the need to do so presents itself, it is possible for the assigned percentages to change during the academic semester.
 
-|Category              | Percentage | Assessment metric|
+| Category              | Percentage | Assessment metric|
 |:-------------------- | :--------- | :-----------------|
-|Participation and Activities   | 20%        | check mark grade|
-|Lab Assignments       | 40%        | letter grade|
-|Midterm Exam          | 20%        | letter grade|
-|Final Project         | 20%        | letter grade|
-|Total                 | 100%       | |
+| Participation and Activities   | 20%        | check mark grade|
+| Lab Assignments       | 40%        | letter grade|
+| Midterm Exam          | 20%        | letter grade|
+| Final Project         | 20%        | letter grade|
+| Total                 | 100%       | |
 
 #### Grading Scale
 
@@ -200,6 +201,13 @@ git add -A
 git commit -m "informative message"
 git push
 ```
+
+_Please do not email your work to the instructor._
+
+## Submissions
+
+In this course, we will follow department's policies regarding attendance, late assignment submissions, and AI use.
+
 ### Communication
 
 Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
