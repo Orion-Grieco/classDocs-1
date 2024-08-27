@@ -59,6 +59,8 @@ Email: <obonhamcarter@allegheny.edu>
 
 [Office Hours](https://www.oliverbonhamcarter.com/contactandabout/)
 
+URL; https://www.oliverbonhamcarter.com/contactandabout/
+
 ## Meeting Times
 
 M/W/F 9:00 AM - 9:50 AM
