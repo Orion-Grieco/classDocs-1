@@ -8,6 +8,7 @@ This repository contains information about Data Analysis, including the course o
 
 + [SCHEDULE](#schedule)
 + [Instructor](#instructor)
++ [Office Hours](#office-hours)
 + [Meeting Times](#meeting-times)
 + [Discord](#discord)
 + [`classDocs/`](#classdocs)
@@ -28,6 +29,8 @@ Dr. Oliver Bonham-Carter (Note: said and written as __Bonham-Carter__, not _Cart
 Office Location: Alden Hall 203
 
 Email: <obonhamcarter@allegheny.edu>
+
+## Office Hours
 
 [Office Hours](https://www.oliverbonhamcarter.com/contactandabout/)
 
@@ -154,7 +157,7 @@ The grade that a student receives in this class will be based on the following c
 
 - __Activities__: Students are offered challenges to test their understanding of material from the course and textbook. Challenges inclulde programming concepts, data handling, approaches to analysis, interpretation, in addition to other types of skills that are intimately associated to data science. Unless other information is given about a due date, activities are to be completed by the end of class.
 
-- __Exam__: A Midterm Exam will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
+- __Exam__: A midterm exam will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
 
 - __Laboratory Assignments__: These assignments invite students to explore the concepts, tools, and techniques associated with the analysis of data. All of the laboratory assignments require the use of the provided tools to study, design, implement, and evaluate systems that solve data analytics problems. In addition
  to demonstration of the technical skills through the utilized or developed software for data analysis, some of the laboratory assignments in this course may also expect students to read a related article and to lead a discussion or to give a short presentation related to the assigned article.
@@ -173,20 +176,6 @@ git commit -m "informative message"
 git push
 ```
 
-### Late Submissions
-
-All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on the due date. Submissions after the beginning of class are counted as being late.
-
-__Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. After that time, the lab will not be accepted.__
-
-__Please note, lab solutions will be discussed after the one week late submission deadline. Therefore, any submission of the assignments following that deadline will not be possible.__
-
-### Extensions
-
-Unless special arrangements are made with the course instructor, __no assignments will be accepted after the late deadline.__ If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a valid reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
-
-The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
-
 ### Communication
 
 Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
@@ -203,51 +192,125 @@ The classrooms in the Department of Computer Science no longer provide machines 
 
 During the semester, you will be told which software to install on your machine to be prepared for class. Some of the prominent software that we may be using can be found at the following [resource](https://www.oliverbonhamcarter.com/resources/dataanalytics_resources/).
 
-### Special Needs and Disability Services
+## Allegheny College Policy and Awareness Statements
 
-The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities.  Among other things, this legislation requires all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities. Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disability Services at 332-2898. Disability Services is part of the Learning Commons and is located in Pelletier Library. Please do this as soon as possible to ensure that approved accommodations are implemented in a timely fashion.
+### Statement of Community
 
-Some of the resources on campus are listed below.
+Allegheny students and employees are committed to creating an inclusive, respectful and safe residential learning community that will actively confront and challenge racism, sexism, heterosexism, religious bigotry, and other forms of harassment and discrimination. We encourage individual growth by promoting a free exchange of ideas in a setting that values diversity, trust and equality. So that the right of all to participate in a shared learning experience is upheld, Allegheny affirms its commitment to the principles of freedom of speech and inquiry, while at the same time fostering responsibility and accountability in the exercise of these freedoms.
 
-- [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
-- [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
-- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
-- [Student Life](https://sites.allegheny.edu/studentlife/)
+### Academic Integrity
 
-### Honor Code
+Allegheny College has a student-run Honor Code designed to promote individual responsibility and integrity in academic affairs. Each student pledges the following: “I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole.” Your professor will educate you about the meaning of academic integrity in this course, which may be different in some respects from other courses in which you are enrolled. Please ask the professor if you have questions. Please see [academic honor program's website](https://sites.allegheny.edu/studentsuccess/academic-honor-program/) for more details.
 
-The Academic Honor Program that governs the entire academic program at Allegheny College is described in the Allegheny Course Catalogue.  The Honor Program applies to all work that is submitted for academic credit or to meet non-credit requirements for graduation at Allegheny College.  This includes all work assigned for this class (e.g., examinations, laboratory assignments, and the final project).  All students who have enrolled in the College will work under the Honor Program.  Each student who has matriculated at the College has acknowledged the following pledge:
+### Midterm Grades
 
-_I hereby recognize and pledge to fulfill my responsibilities, as defined in the Honor Code, and to maintain the integrity of both myself and the College community as a whole._
+Midterm grades will be submitted for all students in this course by Wednesday, October 16, but will not appear on academic transcripts. By giving you an early indication of your performance so far, midterm grades offer an opportunity to make adjustments, if necessary, before the end of the term. While midterm grades are primarily focused on first and second-year students, upper-level students may also receive them in some courses. This feedback is a key part of our commitment to supporting your academic journey.
 
-It is recognized that an important part of the learning process in any course, and particularly one in computer science, derives from thoughtful discussions with teachers and fellow students.  Such dialogue is encouraged. However, it is necessary to distinguish carefully between the student who discusses the principles underlying a problem with others and the student who produces assignments that are identical to, or merely variations on, someone else's work.  While it is acceptable for students in this class to discuss their programs, technical diagrams, proposals, paper reviews, presentations, and other items with their classmates or other individuals, deliverables that are nearly identical to the work of others will be taken as evidence of violating the Honor Code.
+### Seeking assistance
 
-More information about the code may be found at the [Maytum Center for Student Success](https://sites.allegheny.edu/studentsuccess/academic-honor-program/)
+#### Assistance with course concepts
 
-### Welcome to Computer Science Research
+Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the instructor. To meet with me, consult my available office hours (above) and make an appointment. See [Office Hours](#office-hours) above, or go to [this schedule for Technical Leaders' office hours](https://www.cs.allegheny.edu/teaching/technicalleaders/).
 
-Types of computer hardware and software are everywhere! Conducting research in computer science is a challenging and rewarding activity that leads to the production of hardware, software, and scientific insights that have the potential to positively influence the lives of many people.  As you learn more about research methods in computer science you will also enhance your ability to effectively write and speak about a wide range of topics in computer science. I ask that you bring your best effort and highest enthusiasm as you pursue research in computer science this semester.
+#### Educational Accommodations (prepared by SASS)
+
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898.  Student Accessibility and Support Services is located in Pelletier Library.  Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see [student accessibility's website](https://sites.allegheny.edu/studentaccessibility/) for more details.
+
+#### Religious Observance (prepared by SRL)
+
+If you need to miss class or reschedule a final examination due to a religious observance, please speak to the professor well in advance to make arrangements. Please see [religious holidays' website](https://sites.allegheny.edu/religiouslife/religious-holy-days) for more details.
+
+#### Academic Alerts (prepared by MCSS)
+
+Allegheny College uses an Academic Alert system to send progress notices to the class deans in the Maytum Center for Student Success (MCSS). The progress notices are not punitive. They are an opportunity to connect you with your class dean who can offer additional support and suggest resources if you need assistance. These notices may encourage faculty advisors, coaches (for student-athletes), or other support staff to provide outreach to you as well.
+
+#### Mental Health and Wellness (prepared by Wellness in Student Life)
+
+As a college student, there may be times when personal stressors, struggles, and/or traumas interfere with your academic performance and/or negatively impact your daily life. Allegheny College recognizes that mental health is an important piece of the holistic human experience, and that this experience influences your academic success. We encourage students to prioritize their mental well-being by seeking services and support as needed.
+
+Keep in mind, course deadlines, absences, and accommodations for mental health are subject to the course policies and expectations that are set within this syllabus. Students are encouraged to communicate with their professors as soon as possible regarding their needs and seek support if their mental health impacts their academic performance or daily life. When you find yourself struggling emotionally, remember that there are supports available, and you are not alone.
+
+Students who are in need of mental health support can access multiple resources to receive support.  The 98.6 CampusCare app provides physical and behavioral health consultation and supports free of charge 24/7 via telehealth for any actively enrolled student who downloads and signs up with their smartphone.  Allegheny College has also partnered with ECPS (Edinboro Counseling and Psychological Services) to provide in-person therapy on campus. The ECPS partnership with Allegheny College delivers holistic mental health services to the Allegheny College student community through brief individual counseling, and crisis support.
+
+Students may request services from ECPS by calling (814) 332-4368 or by emailing the Wellness Case Manager at `wellness@allegheny.edu`.
+If you or someone you know is experiencing a mental health emergency, please call the 988 Suicide and Crisis Lifeline, Public Safety (814-332-3357), or 911. All of these urgent resources are available 24/7/365.  When in doubt, reach out.
+
+#### Gator Success Grants
+
+The [Gator Success Grant](https://sites.allegheny.edu/gator-success-grants/) program is designed to provide students with additional financial assistance to offset the total cost of college attendance and to encourage successful on-time degree completion. Currently enrolled students who have an unanticipated need are invited to apply. Grants are usually from a few hundred to a few thousand dollars, depending on the request and the student's need. Please direct questions to `studentsuccess@allegheny.edu`.
+
+#### Writing and Speaking Consultants (prepared by the Directors of Writing and Speaking)
+
+Experienced peer writing and speaking consultants in the Maytum Center for Student Success help writers and speakers make academically responsible choices and determine strategies for effective communication at any stage in the writing or speaking process, for assignments in any discipline, or for writing and speaking situations unrelated to coursework (e.g., personal statements, cover letters, interviews, conference presentations). Both appointments and drop-in sessions are available. To view the hours of operation, and to make an appointment, visit the [Maytum Center for Student Success website](https://sites.allegheny.edu/maytum-center-student-success/writing-speech/).
+
+### Gator Days and Scholar Symposium (prepared by MCSS and URSCA)
+
+In each semester, we have one Gator Day set aside for programming, with no classes. Fall Gator Day is held on the first Tuesday in November (coinciding with election day). Spring Gator Day is held on a Monday in early April. These all-college programming days  feature programs and workshops that highlight educational opportunities at Allegheny, that prepare students for life after graduation, and that help to create a greater sense of campus community. Additionally, in the Spring, during the Richard J Cook – Teresa M Lahti Scholars Symposium (the day immediately after classes end and before exams begin), we gather to celebrate student research, scholarship, and creative activities on campus. We
+
+#### Class Deans (prepared by MCSS)
+
+The [Office of Class Deans](https://sites.allegheny.edu/maytum-center-student-success/class-deans/) in Pelletier Library serves as a place for students to begin seeking assistance and answers to their questions related to college life. If you have a question and don’t know who to ask – ask a class dean. If you want advice – talk to a class dean. Aacha Gregg is the First Year Class Dean, Amy Stearns is the Second Year Class Dean / Director of Transfer Advising, and Carene Shipley is the Third/Fourth Year Class Dean. Dom Turner is the Associate Dean for Diversity, Equity, and Inclusion, located in Schultz Hall. Please contact them individually or through `studentsuccess@allegheny.edu`.
+
+#### Recording Policy (prepared by Campus Life and Community Standards Committee)
+
+In remote teaching and learning contexts, there is an understanding that instructors (including faculty, coaches, staff, and facilitators) have the right to record class and discussion proceedings.  All other participants must request permission of the instructor in advance before making any additional recordings.  An instructor's pre-recorded material, including lectures and class notes, may not be shared with anyone outside of the course's current enrollment without the consent of the instructor. Similarly, under no circumstances may a recording, still, screenshot, picture, or any other media of any sort be altered or circulated by anyone outside of its original intent. No content may be distributed outside the circle of participants without the consent of all who appear or are heard. The college community is reminded of Allegheny College's Recording Policy, outlined in 9.8 of the Faculty Handbook, as well as Allegheny's Statement of Community. Violations will be referred to the Student Conduct system.  Classes may also be recorded if approved as an educational accommodation through the Student Accessibility and Support Services. Faculty are further reminded that recordings of class activities are educational records protected under FERPA. While students do not have a right to be anonymous in a class in which they are enrolled, they have the legal right to be anonymous to third parties. Please direct questions about FERPA to the Registrar.
+
+#### Harassment, Discrimination, and Sexual Misconduct Reporting (prepared by the Title IX Coordinator)
+
+Allegheny College is committed to providing a workplace and educational environment that is free from all forms of harassment, discrimination, and sexual misconduct. The College expressly prohibits discrimination and harassment on the basis of race, color, national origin, ethnicity, sex, sexual orientation, gender, gender identity, gender expression, age, religion, and disability. Allegheny College prohibits sex-based harassment, sexual violence, intimate partner violence, and stalking regardless of the gender, gender identity, gender expression, or sexual orientation of the individuals involved in any education program or activity that it operates, as required by Title IX, including admission and employment.
+
+Allegheny College adheres to all federal, state, and local civil rights laws prohibiting discrimination in employment and education. The College does not discriminate in its admissions practices, in its employment practices, or in its educational programs or activities. Allegheny College also prohibits retaliation against any person participating in good faith in any discrimination investigation or complaint process internal or external to the institution; for bringing a complaint of discrimination or harassment or for assisting someone with such a complaint.
+
+Allegheny College is required to respond promptly and effectively, utilizing a fair, transparent, and reliable process, when they have knowledge of conduct that reasonably may constitute sex discrimination in its program, and must take steps to prevent the recurrence of discrimination and remedy its effects, the college must communicate their policies and procedures to all students, employees, and other participants in their programs and must monitor and address barriers to reporting instances of sex discrimination.
+
+Allegheny College employees must notify their Title IX Coordinator when they have information that may reasonably rise to the level of sex discrimination, so long as the employee is not a confidential employee, as defined on page 3 of this policy. All employees must be trained upon hiring and annually thereafter on (i) the College’s obligation to address sex discrimination, (ii) the scope of conduct that constitutes sex discrimination under Title IX, including sex-based harassment, and (iii) all duties of employees upon receipt of a report of sex discrimination, including to provide the reporting individual with contact information for the Title IX Coordinator and information about how to report sex discrimination under Title IX.
+
+Joe Hall, Interim Title IX Coordinator
+814-332-3085 (direct line), `jhall@allegheny.edu`, Campus Center 310A
+
+You can access support and resources even if you do not want to take any further action. The College respects your right to file or not file a formal complaint. The Title IX Coordinator must take action only in situations that pose a serious threat of harm to you or the community.
+
+_Notice that Faculty are Responsible Employees with Mandatory Reporting Obligations:_
+
+Unless specifically identified otherwise by policy, all faculty, staff, and administrators of Allegheny College are considered mandated reporters and are required to notify the College’s Title IX Coordinator of any incident of discrimination and harassment disclosed to them, or known to them, involving a member of the campus community. Mandated reporting helps to ensure that individuals who are experiencing or have experienced discrimination or harassment are connected to the full range of resources and options afforded to them.
+
+If you are in need of support or advocacy and wish to discuss such matters confidentially, you are invited to consult any of the resources listed below. Unlike other College employees, the options below are confidential and are exempt from mandatory reporting obligations to the Title IX Coordinator. These resources are free and include both internal and external options.
+
+__On Campus Options:__
+- Meadville Medical Center @ Winslow - (814-332-4355) - Walk-ins welcome - Open from M-F 10am-3pm (last patient check-in at 2:30pm) while classes are in session.
+- ECPS partnership with Allegheny College (Edinboro Counseling and Psychological Services) - (814) 332-4368 - Please call to schedule an appointment.
+- 98point6 CampusCare - Allegheny students can download the app for iOS or Android smartphones, confirm their cell phone number, and complete their profile to receive services.  This physical/behavioral telehealth service is free of charge for all actively enrolled students at Allegheny College.
+- Wellness in Student Life - `wellness@allegheny.edu` - (814) 332-2782
+
+__Off Campus Options:__
+
+- [Meadville Medical Center Emergency Room](https://sites.allegheny.edu/title-ix/resources/), 751 Liberty Street – (814) 333-5500
+- [Meadville Crisis Line](https://sites.allegheny.edu/title-ix/resources/), (814) 724-2732
+- [Women’s Services](https://www.google.com/url?q=https://www.womensservicesinc.com/&sa=D&source=docs&ust=1724791366323234&usg=AOvVaw10Y2eKAZSPd53YUPxQqdml), Inc., (814) 724-4637 (office)
+- 24-hour Hotlines: (814) 333-9766  or (888) 881-0189
+
+If you would like more information on the College's Harassment, Discrimination and Sexual Misconduct Policy click [here](https://sites.allegheny.edu/title-ix/).
+[Resources | Title IX | Allegheny College](https://sites.allegheny.edu/title-ix/resources/)
 
 ### Schedule
 
 Below is a __tentative__ schedule of covered topics and activities.
 
-
 | Week Number | Dates | Topic |
 | ----------- | ----- | ----- |
-| 1 | mm/dd/yyyy | Intro to R programming |
-| 2 | mm/dd/yyyy | Exploratory Analytics, determining types of analysis |
-| 3 | mm/dd/yyyy | Types of Data |
-| 4 | mm/dd/yyyy | Statistics, basics, describing data |
-| 5 | mm/dd/yyyy | T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
-| 6 | mm/dd/yyyy | Exam |
-| 7 | mm/dd/yyyy | Modeling formal basics: random decision forests, support vector machines |
-| 8 | mm/dd/yyyy | Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning) |
-| 9 | mm/dd/yyyy | Linear Neural Networks for Regression and Classification [Examples](https://scikit-learn.org/stable/modules/neural_networks_supervised.html) |
-| 10 | mm/dd/yyyy | Machine Learning (Unsupervised): k-means clustering, [Examples](https://www.ibm.com/topics/unsupervised-learning/) |
-| 11 | mm/dd/yyyy | Machine Learning (Reinforcement Learning): Natural Language Models, Text Analysis, [Examples](https://www.ibm.com/topics/reinforcement-learning) Linear Neural Networks for Classification |
-| 12 | mm/dd/yyyy | State of the art: Sentiment Analysis, Text Analysis |
-| 13 | mm/dd/yyyy | State of the art: Facial Recognition, percolation (maybe) |
-| 14 | mm/dd/yyyy | Exam |
+| 1 | 28 August 2024 | Intro to the course |
+| 2 | 4 Sept 2024 | Programming in R, Exploratory Analytics |
+| 3 | day month year | Types of Data |
+| 4 | day month year | Statistics, basics, describing data |
+| 5 | day month year | T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
+| 6 | day month year | Exam |
+| 7 | day month year | Modeling formal basics: random decision forests, support vector machines |
+| 8 | day month year | Machine Learning (supervised): Linear, logistic Regression, MultiLinear Regression Other [Examples](https://www.ibm.com/topics/supervised-learning) |
+| 9 | day month year | Linear Neural Networks for Regression and Classification [Examples](https://scikit-learn.org/stable/modules/neural_networks_supervised.html) |
+| 10 | day month year | Machine Learning (Unsupervised): k-means clustering, [Examples](https://www.ibm.com/topics/unsupervised-learning/) |
+| 11 | day month year | Machine Learning (Reinforcement Learning): Natural Language Models, Text Analysis, [Examples](https://www.ibm.com/topics/reinforcement-learning) Linear Neural Networks for Classification |
+| 12 | day month year | State of the art: Sentiment Analysis, Text Analysis |
+| 13 | day month year | State of the art: Facial Recognition, percolation (maybe) |
+| 14 | day month year | Exam |
 | 15 | Projects | Presentations |
 | 16 | Projects | Due date |
