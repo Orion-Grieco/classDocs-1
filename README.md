@@ -63,13 +63,9 @@ URL; https://www.oliverbonhamcarter.com/contactandabout/
 
 ## Meeting Times
 
-M/W/F 9:00 AM - 9:50 AM
-27 August 2024 - 12 December 2024
-Alden Hall, 101 Lecture
+M/W/F 9:00 AM - 9:50 AM, 27 August 2024 - 12 December 2024, Alden Hall, 101 Lecture
 
-W 2:30 PM - 4:20 PM
-27 August 2024 - 12 December 2024
-Alden Hall, 101 Lab
+W 2:30 PM - 4:20 PM, 27 August 2024 - 12 December 2024, Alden Hall, 101 Lab
 
 ### Discord
 
