@@ -6,21 +6,46 @@ This repository contains information about Data Analysis, including the course o
 
 # Content
 
-+ [SCHEDULE](#schedule)
-+ [Instructor](#instructor)
-+ [Office Hours](#office-hours)
-+ [Meeting Times](#meeting-times)
-+ [Discord](#discord)
-+ [`classDocs/`](#classdocs)
-+ [Deliverable](#course-deliverable)
-+ [Course Description](#course-description)
-+ [Distribution Requirements](#Distribution-Requirements)
-+ [Suggested Textbooks](#suggested-textbooks)
-+ [Course Policies](#Course-Policies)
-+ [Grading](#grading)
-+ [Assignment Submissions](#assignment-submissions)
-+ [Gradebook Repository](#gradebook-repository)
-+ [Schedule](#schedule)
+- [Data Science (CMPSC 301) Course Syllabus](#data-science-cmpsc-301-course-syllabus)
+- [Content](#content)
+  - [Instructor](#instructor)
+  - [Office Hours](#office-hours)
+  - [Meeting Times](#meeting-times)
+    - [Discord](#discord)
+  - [`classDocs/`](#classdocs)
+  - [Course Deliverable](#course-deliverable)
+  - [Course Description](#course-description)
+  - [Distribution Requirements](#distribution-requirements)
+  - [Course Objectives](#course-objectives)
+  - [An Ethical Interest](#an-ethical-interest)
+  - [Suggested TextBooks](#suggested-textbooks)
+  - [Other Useful Textbooks:](#other-useful-textbooks)
+      - [Other Useful Textbooks](#other-useful-textbooks-1)
+  - [Policies](#policies)
+    - [Grading](#grading)
+      - [Grading Scale](#grading-scale)
+    - [Definitions of Grading Categories](#definitions-of-grading-categories)
+    - [Assignment Submissions](#assignment-submissions)
+    - [Communication](#communication)
+    - [Gradebook Repository](#gradebook-repository)
+    - [Bring your own computer to class](#bring-your-own-computer-to-class)
+  - [Allegheny College Policy and Awareness Statements](#allegheny-college-policy-and-awareness-statements)
+    - [Statement of Community](#statement-of-community)
+    - [Academic Integrity](#academic-integrity)
+    - [Midterm Grades](#midterm-grades)
+    - [Seeking assistance](#seeking-assistance)
+      - [Assistance with course concepts](#assistance-with-course-concepts)
+      - [Educational Accommodations (prepared by SASS)](#educational-accommodations-prepared-by-sass)
+      - [Religious Observance (prepared by SRL)](#religious-observance-prepared-by-srl)
+      - [Academic Alerts (prepared by MCSS)](#academic-alerts-prepared-by-mcss)
+      - [Mental Health and Wellness (prepared by Wellness in Student Life)](#mental-health-and-wellness-prepared-by-wellness-in-student-life)
+      - [Gator Success Grants](#gator-success-grants)
+      - [Writing and Speaking Consultants (prepared by the Directors of Writing and Speaking)](#writing-and-speaking-consultants-prepared-by-the-directors-of-writing-and-speaking)
+    - [Gator Days and Scholar Symposium (prepared by MCSS and URSCA)](#gator-days-and-scholar-symposium-prepared-by-mcss-and-ursca)
+      - [Class Deans (prepared by MCSS)](#class-deans-prepared-by-mcss)
+      - [Recording Policy (prepared by Campus Life and Community Standards Committee)](#recording-policy-prepared-by-campus-life-and-community-standards-committee)
+      - [Harassment, Discrimination, and Sexual Misconduct Reporting (prepared by the Title IX Coordinator)](#harassment-discrimination-and-sexual-misconduct-reporting-prepared-by-the-title-ix-coordinator)
+    - [Schedule](#schedule)
 
 ## Instructor
 
@@ -134,22 +159,22 @@ The content from this course originates from the following textbooks and referen
 
 The grade that a student receives in this class will be based on the following categories. All percentages are approximate and, if the need to do so presents itself, it is possible for the assigned percentages to change during the academic semester.
 
-|Category              | Percentage | Assessment metric
-|:-------------------- | :--------- | :-----------------
-|Participation and Activities   | 20%        | check mark grade
-|Lab Assignments       | 40%        | letter grade
-|Midterm Exam          | 20%        | letter grade
-|Final Project         | 20%        | letter grade
-|Total                 | 100%       |
+|Category              | Percentage | Assessment metric|
+|:-------------------- | :--------- | :-----------------|
+|Participation and Activities   | 20%        | check mark grade|
+|Lab Assignments       | 40%        | letter grade|
+|Midterm Exam          | 20%        | letter grade|
+|Final Project         | 20%        | letter grade|
+|Total                 | 100%       | |
 
 #### Grading Scale
 
 |Letter| Range |Letter |Range |Letter|Range|
 |:------------|:-----------|:------------|:-----------|:------------|:-----------|
-|A            | 96 - 100   |A-           | 90 - 95.9  |
-|B+           | 87 - 89.9  |B            | 83 - 86.9  |B-           | 80 - 82.9  |
-|C+           | 77 - 79.9  |C            | 73 - 76.9  |C-           | 70 - 72.9  |
-|D+           | 67 - 69.9  |D            | 63 - 66.9  |F           | 59.9 and below  |
+|A| 96 - 100    |A-| 90 - 95.9 |
+|B+| 87 - 89.9  |B|  83 - 86.9 |B-| 80 - 82.9 |
+|C+| 77 - 79.9  |C|  73 - 76.9 |C-| 70 - 72.9 |
+|D+| 67 - 69.9  |D|  63 - 66.9 |F | 59.9 and below |
 
 ### Definitions of Grading Categories
 
@@ -175,7 +200,6 @@ git add -A
 git commit -m "informative message"
 git push
 ```
-
 ### Communication
 
 Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
