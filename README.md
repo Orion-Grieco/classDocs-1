@@ -330,7 +330,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 
 | Week Number | Dates | Topic |
 | ----------- | ----- | ----- |
-| 1 | 28 August 2024 | Intro to the course |
+| 1 | 28 August 2024 | Intro to the course, [Department message](https://docs.google.com/presentation/d/1ShEG7fO-OI-O06JW6VB8CTnLyDb5I4Tj6WCOAAXkIFU/edit?usp=sharing) |
 | 2 | 4 Sept 2024 | Programming in R, Exploratory Analytics |
 | 3 | day month year | Types of Data |
 | 4 | day month year | Statistics, basics, describing data |
