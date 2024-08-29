@@ -26,7 +26,6 @@ This repository contains information about Data Analysis, including the course o
       - [Grading Scale](#grading-scale)
     - [Definitions of Grading Categories](#definitions-of-grading-categories)
     - [Assignment Submissions](#assignment-submissions)
-  - [Submissions](#submissions)
     - [Communication](#communication)
     - [Gradebook Repository](#gradebook-repository)
     - [Bring your own computer to class](#bring-your-own-computer-to-class)
@@ -156,6 +155,8 @@ The content from this course originates from the following textbooks and referen
 
 ## Policies
 
+In this course, we will follow the department's policies (available from; https://www.cis.allegheny.edu/teaching/policies/) regarding attendance, late assignment submissions, AI use and similar.
+
 ### Grading
 
 The grade that a student receives in this class will be based on the following categories. All percentages are approximate and, if the need to do so presents itself, it is possible for the assigned percentages to change during the academic semester.
@@ -203,10 +204,6 @@ git push
 ```
 
 _Please do not email your work to the instructor._
-
-## Submissions
-
-In this course, we will follow department's policies regarding attendance, late assignment submissions, and AI use.
 
 ### Communication
 
