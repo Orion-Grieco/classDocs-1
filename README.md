@@ -19,8 +19,7 @@ This repository contains information about Data Analysis, including the course o
   - [Course Objectives](#course-objectives)
   - [An Ethical Interest](#an-ethical-interest)
   - [Suggested TextBooks](#suggested-textbooks)
-  - [Other Useful Textbooks:](#other-useful-textbooks)
-      - [Other Useful Textbooks](#other-useful-textbooks-1)
+  - [Other Useful Textbooks](#other-useful-textbooks)
   - [Policies](#policies)
     - [Grading](#grading)
       - [Grading Scale](#grading-scale)
@@ -118,44 +117,35 @@ Throughout the semester students will be challenged with serious analytical ques
 
 The content from this course originates from the following textbooks and references.
 
-* Wickham, Hadley, and Garrett Grolemund. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data., O'Reilly Media, Inc., 2016.
-  + [Book Website](https://r4ds.had.co.nz/)
-  + [Latest Version of Book](https://r4ds.hadley.nz/)
+- Wickham, Hadley, and Garrett Grolemund. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data., O'Reilly Media, Inc., 2016.
+  - [Book Website](https://r4ds.had.co.nz/)
+  - [Latest Version of Book](https://r4ds.hadley.nz/)
 
-* Julia Silge And David Robinson. Text Mining With R: A Tidy Approach., O'Reilly Media, Inc., 2019.
-  + [Book Website](https://www.tidytextmining.com/)
+- Julia Silge And David Robinson. Text Mining With R: A Tidy Approach., O'Reilly Media, Inc., 2019.
+  - [Book Website](https://www.tidytextmining.com/)
 
-* Think Python, first edition, by Allen B. Downey.
-  + [Publisher Website](https://greenteapress.com/wp/)
+- Think Python, first edition, by Allen B. Downey.
+  - [Publisher Website](https://greenteapress.com/wp/)
 
-* _Circular Visualization in R_ by Zuguang Gu
-  + [Book Website](https://jokergoo.github.io/circlize_book/book/introduction.html)
+- _Circular Visualization in R_ by Zuguang Gu
+  - [Book Website](https://jokergoo.github.io/circlize_book/book/introduction.html)
 
-* Tuckfield, Bradford. Dive Into Data Science: Use Python to Tackle Your Toughest Business Challenges. No Starch Press, Incorporated, 2023.
+- Tuckfield, Bradford. Dive Into Data Science: Use Python to Tackle Your Toughest Business Challenges. No Starch Press, Incorporated, 2023.
 
-* Vasiliev, Yuli. Python for Data Science: A Hands-on Introduction. No Starch Press, 2022.
+- Vasiliev, Yuli. Python for Data Science: A Hands-on Introduction. No Starch Press, 2022.
 
-* Zhang, Aston, et al. "Dive into deep learning." arXiv preprint arXiv:2106.11342 (2021).
-  + [Book Website](https://d2l.ai/)
+- Zhang, Aston, et al. "Dive into deep learning." arXiv preprint arXiv:2106.11342 (2021).
+  - [Book Website](https://d2l.ai/)
 
-## Other Useful Textbooks:
+## Other Useful Textbooks
 
-* BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
+- BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
 
-* Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
-
-#### Other Useful Textbooks
-
-+ Think Python, first edition, by Allen B. Downey.
-
-  + [Publisher Website](https://greenteapress.com/wp/)
-+ BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
-
-+ Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
+- Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
 
 ## Policies
 
-In this course, we will follow the department's policies (available from; https://www.cis.allegheny.edu/teaching/policies/) regarding attendance, late assignment submissions, AI use and similar.
+In this course, we will follow the department's policies (available from; [https://www.cis.allegheny.edu/teaching/policies/](https://www.cis.allegheny.edu/teaching/policies/)) regarding attendance, late assignment submissions, AI use and similar.
 
 ### Grading
 
