@@ -4,10 +4,22 @@ Semester: Fall 2024
 
 This repository contains information about Data Analysis, including the course objectives, policies and the schedule. Please check this repository regularly for updates to the policies and the schedule.
 
-# Content
+## Department Policies
+
+In this course, we will follow the department's policies (available from; [https://www.cis.allegheny.edu/teaching/policies/](https://www.cis.allegheny.edu/teaching/policies/)) regarding attendance, late assignment submissions, AI use and similar.
+
+## Attendance Form
+
+Please complete the __attendence__ [form](https://forms.gle/iaY7zBmxj8KvsDMa8) for each class meeting and lab.
+
+Note: recording attendance is part of our departmental [policy](https://www.cis.allegheny.edu/teaching/policies/).
+
+# Table of Contents
 
 - [CMPSC 301: Data Science Course Syllabus](#cmpsc-301-data-science-course-syllabus)
-- [Content](#content)
+  - [Department Policies](#department-policies)
+  - [Attendance Form](#attendance-form)
+- [Table of Contents](#table-of-contents)
   - [Instructor](#instructor)
   - [Office Hours](#office-hours)
   - [Meeting Times](#meeting-times)
@@ -20,11 +32,11 @@ This repository contains information about Data Analysis, including the course o
   - [An Ethical Interest](#an-ethical-interest)
   - [Suggested TextBooks](#suggested-textbooks)
   - [Other Useful Textbooks](#other-useful-textbooks)
-  - [Policies](#policies)
     - [Grading](#grading)
       - [Grading Scale](#grading-scale)
     - [Definitions of Grading Categories](#definitions-of-grading-categories)
     - [Assignment Submissions](#assignment-submissions)
+    - [Course Tokens](#course-tokens)
     - [Communication](#communication)
     - [Gradebook Repository](#gradebook-repository)
     - [Bring your own computer to class](#bring-your-own-computer-to-class)
@@ -143,10 +155,6 @@ The content from this course originates from the following textbooks and referen
 
 - Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
 
-## Policies
-
-In this course, we will follow the department's policies (available from; [https://www.cis.allegheny.edu/teaching/policies/](https://www.cis.allegheny.edu/teaching/policies/)) regarding attendance, late assignment submissions, AI use and similar.
-
 ### Grading
 
 The grade that a student receives in this class will be based on the following categories. All percentages are approximate and, if the need to do so presents itself, it is possible for the assigned percentages to change during the academic semester.
@@ -172,9 +180,9 @@ The grade that a student receives in this class will be based on the following c
 
 - __Class Participation__: All students are required to actively participate during all of the class sessions. Your participation will take forms such as answering questions about the required reading assignments, completing in-class exercises, asking constructive questions of the other members of the class, giving presentations, leading a discussion session in class.
 
-- __Activities__: Students are offered challenges to test their understanding of material from the course and textbook. Challenges inclulde programming concepts, data handling, approaches to analysis, interpretation, in addition to other types of skills that are intimately associated to data science. Unless other information is given about a due date, activities are to be completed by the end of class.
+- __Activities__: Students are offered challenges to test their understanding of material from the course and textbook. Challenges include programming concepts, data handling, approaches to analysis, interpretation, in addition to other types of skills that are intimately associated to data science. Unless other information is given about a due date, activities are to be completed by the end of class.
 
-- __Exam__: A midterm exam will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
+- __Midterm Exam__: A midterm exam will cover all of the material in their associated module(s) up to the time of the exam. The finalized date for each of the exams will be announced at least one week in advance of the scheduled date. Unless prior arrangements are made with the course instructor, in absence of special arrangements, all students will be expected to take the exam at the scheduled date and complete it during the allotted time.
 
 - __Laboratory Assignments__: These assignments invite students to explore the concepts, tools, and techniques associated with the analysis of data. All of the laboratory assignments require the use of the provided tools to study, design, implement, and evaluate systems that solve data analytics problems. In addition
  to demonstration of the technical skills through the utilized or developed software for data analysis, some of the laboratory assignments in this course may also expect students to read a related article and to lead a discussion or to give a short presentation related to the assigned article.
@@ -194,6 +202,18 @@ git push
 ```
 
 _Please do not email your work to the instructor._
+
+### Course Tokens
+
+In our course, students are permitted to utilize two tokens to extend deadlines for assignments, quizzes, and tests (not final projects). The application of a token typically does not require interaction with the course instructor, except in extraordinary circumstances such as those documented as severe and extenuating or those that breach the CIS policy document or any College-approved policy.
+
+The rationale behind the use of tokens is outlined in our departmental [policy](https://www.cis.allegheny.edu/teaching/policies/).
+
+To utilize a token, students must first submit a Google form at least 24 hours prior to the deadline passing. Exceptions can be made for severe or extenuating circumstances, as well as instances that violate the CIS policy document or any College-approved policy.
+
+It is important to note that the use of tokens grants an extension of only one week for all coursework, with the exception of the final project, which is fixed by the College.
+
+For questions regarding the application and usage of tokens, students are encouraged to check the departmental policy documentation, or reach out to the course instructor for clarification.
 
 ### Communication
 
@@ -296,6 +316,7 @@ Unless specifically identified otherwise by policy, all faculty, staff, and admi
 If you are in need of support or advocacy and wish to discuss such matters confidentially, you are invited to consult any of the resources listed below. Unlike other College employees, the options below are confidential and are exempt from mandatory reporting obligations to the Title IX Coordinator. These resources are free and include both internal and external options.
 
 __On Campus Options:__
+
 - Meadville Medical Center @ Winslow - (814-332-4355) - Walk-ins welcome - Open from M-F 10am-3pm (last patient check-in at 2:30pm) while classes are in session.
 - ECPS partnership with Allegheny College (Edinboro Counseling and Psychological Services) - (814) 332-4368 - Please call to schedule an appointment.
 - 98point6 CampusCare - Allegheny students can download the app for iOS or Android smartphones, confirm their cell phone number, and complete their profile to receive services.  This physical/behavioral telehealth service is free of charge for all actively enrolled students at Allegheny College.
@@ -317,7 +338,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 
 | Week Number | Dates | Topic |
 | ----------- | ----- | ----- |
-| 1 | 28 August 2024 | Intro to the course, [Department core values](https://docs.google.com/presentation/d/1ShEG7fO-OI-O06JW6VB8CTnLyDb5I4Tj6WCOAAXkIFU/edit?usp=sharing) |
+| 1 | 28 August 2024 | Intro to the course, [Department core values](https://docs.google.com/presentation/d/1ShEG7fO-OI-O06JW6VB8CTnLyDb5I4Tj6WCOAAXkIFU/edit?usp=sharing), syllabus, Ungraded [activity](lessons/01/wordSearch/README.md), Getting to know you [survey](https://forms.gle/a7cMWsG5Sd5Wn2c78) |
 | 2 | Monday, 2 Sept | No class |
 | 2 | 4 Sept 2024 | Programming in R, Exploratory Analytics |
 | 3 | day month year | Types of Data |
