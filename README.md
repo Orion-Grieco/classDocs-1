@@ -10,16 +10,16 @@ In this course, we will follow the department's policies (available from; [https
 
 ## Attendance Form
 
-Please complete the __attendence__ [form](https://forms.gle/iaY7zBmxj8KvsDMa8) before you leave class or lab sessions.
+Please complete the __attendance__ [form](https://forms.gle/iaY7zBmxj8KvsDMa8) before you leave class or lab sessions.
 
 Note: recording attendance is part of our departmental [policy](https://www.cis.allegheny.edu/teaching/policies/).
 
-# Table of Contents
+## Table of Contents
 
 - [CMPSC 301: Data Science Course Syllabus](#cmpsc-301-data-science-course-syllabus)
   - [Department Policies](#department-policies)
   - [Attendance Form](#attendance-form)
-- [Table of Contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Instructor](#instructor)
   - [Office Hours](#office-hours)
   - [Meeting Times](#meeting-times)
