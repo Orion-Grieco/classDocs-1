@@ -23,7 +23,9 @@ Note: recording attendance is part of our departmental [policy](https://www.cis.
   - [Instructor](#instructor)
   - [Office Hours](#office-hours)
   - [Meeting Times](#meeting-times)
-  - [Discord](#discord)
+  - [Communication](#communication)
+    - [Discord](#discord)
+    - [Discord Channel Invitation](#discord-channel-invitation)
   - [Course Deliverable](#course-deliverable)
   - [`classDocs/`](#classdocs)
   - [Course Description](#course-description)
@@ -37,7 +39,6 @@ Note: recording attendance is part of our departmental [policy](https://www.cis.
     - [Definitions of Grading Categories](#definitions-of-grading-categories)
     - [Assignment Submissions](#assignment-submissions)
     - [Course Tokens](#course-tokens)
-    - [Communication](#communication)
     - [Gradebook Repository](#gradebook-repository)
     - [Bring your own computer to class](#bring-your-own-computer-to-class)
   - [Allegheny College Policy and Awareness Statements](#allegheny-college-policy-and-awareness-statements)
@@ -79,9 +80,19 @@ URL; https://www.oliverbonhamcarter.com/contactandabout/
 - __Lab__, Alden Hall 101
   - W 2:30 PM - 4:20 PM, 27 August 2024 - 12 December 2024
 
-## Discord
+## Communication
+
+Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
+
+Additionally, the course website will be used to store the syllabus, course schedule and information about the `classDocs/` repository using the GitHub. Your grades will be communicated to you by a Gradebook GitHub repository.
+
+### Discord
 
 If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#data-science`. If not, then you will need to join the department's Discord server before you can be added to the course's channel.
+
+### Discord Channel Invitation
+
+The link to the channel of the Department of Computer and Information Science; [https://discord.gg/DGQrtccv](https://discord.gg/DGQrtccv). Note: since this link will expire, please see the instructor.
 
 ## Course Deliverable
 
@@ -214,12 +225,6 @@ To utilize a token, students must first submit a Google form at least 24 hours p
 It is important to note that the use of tokens grants an extension of only one week for all coursework, with the exception of the final project, which is fixed by the College.
 
 For questions regarding the application and usage of tokens, students are encouraged to check the departmental policy documentation, or reach out to the course instructor for clarification.
-
-### Communication
-
-Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
-
-Additionally, the course website will be used to store the syllabus, course schedule and information about the `classDocs/` repository using the GitHub.  Your grades will be communicated to you by a Gradebook GitHub repository.
 
 ### Gradebook Repository
 
