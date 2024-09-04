@@ -346,7 +346,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 1 | 28 August 2024 | Intro to the course, [Department core values](https://docs.google.com/presentation/d/1ShEG7fO-OI-O06JW6VB8CTnLyDb5I4Tj6WCOAAXkIFU/edit?usp=sharing), syllabus, Ungraded [activity](lessons/01/wordSearch/README.md), Getting to know you [survey](https://forms.gle/a7cMWsG5Sd5Wn2c78) |
 | 2 | Monday, 2 Sept | No class |
 | 2 | 4 Sept 2024 | Programming in R, Exploratory Analytics |
-| 3 | day month year | Types of Data |
+| 3 | day month year | Types of Data, Exploratory steps, Transformations |
 | 4 | day month year | Statistics, basics, describing data |
 | 5 | day month year | T-tests, Analysis of variance (ANOVA), multivariate analysis of variance (MANOVA) |
 | 6 | day month year | Exam |
