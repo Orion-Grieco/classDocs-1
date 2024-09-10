@@ -8,7 +8,11 @@ Dr. Oliver Bonham-Carter (Note: said and written as __Bonham-Carter__, not _Cart
 
 - Office Location: Alden Hall 203
 - Email: <obonhamcarter@allegheny.edu>
-  
+
+## Syllabus Version
+
+2 September 2024  
+
 This document contains information about Data Analysis, including the course objectives, policies and the schedule. Please check this document regularly for updates to the schedule.
 
 ## Department Policies
