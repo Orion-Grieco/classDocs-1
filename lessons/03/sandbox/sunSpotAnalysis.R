@@ -16,7 +16,7 @@ sunData <- read.table(file.choose(), header = TRUE, sep = ",")
 View(sunData)
 # Plot the data:
 ggplot(data = sunData) +  geom_point(
-    mapping =aec(
+    mapping =aes(
       x = fracOfYear,
       y = sunspotNum,
       color = numObs,
